@@ -1,5 +1,3 @@
 Clean everything thoroughly
 Clean the basement
 Clean the floor
-Fix the script
-Run the code
